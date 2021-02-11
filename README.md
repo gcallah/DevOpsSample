@@ -17,6 +17,7 @@ and repeatedly.
 1. Use version control.
 1. Automate our documentation generation.
 1. Automate our testing.
+1. Automate code review.
 1. Configure the system with code (infra-structure as code).
 1. Automate our builds.
 1. Use CI/CD to automate our deployment.
@@ -31,6 +32,7 @@ Tools to acheive the above:
 1. git
 1. pydoc
 1. nose, coverage, unittest
+1. flake8
 1. make
 1. Travis CI
 1. Docker
