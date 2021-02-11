@@ -7,7 +7,7 @@ infrastructure. It doesn't do anything else useful!
 
 def main():
     print("Hello DevOps class!")
-    return 1
+    return 0
 
 
 if __name__ == "__main__":
