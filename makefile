@@ -2,7 +2,7 @@
 FORCE:
 
 tests: FORCE
-	python -m unittest tests.test_sample
+	nosetests --with-coverage
 
 prod: tests
 	git commit -a
