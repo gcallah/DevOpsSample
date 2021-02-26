@@ -11,6 +11,17 @@ class.
 organizations to deliver reliable software that meets its users' needs rapidly
 and repeatedly.
 
+## Setup
+
+To set up a new developer's environment, in the top-level directory, run:
+
+`make dev_env`
+
+To build  production, run:
+
+`make prod`
+
+
 ## Requirements
 
 1. Use workflow control.
