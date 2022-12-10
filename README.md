@@ -1,6 +1,6 @@
 # DevOpsSample
 
-This is a sample repo to get students (and others) going with a DevOps project.
+This is a sample repo to get students (and others) going with a DevOps project. It will serve as the template for introductory lectures on this topic.
 
 It is being built for the DevOps class at NYU Tandon, but usable anywhere!
 
